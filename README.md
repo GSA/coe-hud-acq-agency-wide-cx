@@ -21,3 +21,6 @@ At the [U.S. Department of Housing and Urban Development](https://www.hud.gov/) 
 HUD has a need to build a centralized Customer Experience Capability, in the form of an Office of Customer Experience (OCX) under the Chief Operating Officer (COO) in order to provide agency-wide coordination and analysis of customer and client interactions.
 
 This must be achieved in such a way that an ‘advisory board’ will be established in order to align leadership across HUD’s program areas on focus areas for the OCX's work, and ‘project teams’ assembled to support OCX efforts in designing, prototyping, piloting, and guiding the implementation of Agency-wide solutions that measurably improve the Customer Experience (CX) HUD delivers to all of its customers. Additionally, it must permit HUD's OCX to define Customer Experience (CX) metrics enterprise-wide andmeet [OMB A-11 compliance](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf) requirements.
+
+## Other RFIs
+Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
