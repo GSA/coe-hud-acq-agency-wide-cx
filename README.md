@@ -1,6 +1,8 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE and HUD](https://github.com/GSA/coe-hud-acquisitions) > Build an Agency-Wide CX Capability
+
 *Note: This is a Request for Information (RFI) only. This is not a Request for Quote (RFQ), Request for Proposal (RFP), or any other type of request for an offer. This is a market research function and does not represent a commitment by the Government to issue a solicitation or award a contract.*
 
-# Customer Experience: Build an Agency-Wide Customer Experience Capability
+# Customer Experience: Build an Agency-Wide CX Capability
 
 ## How to respond to this RFI
 
