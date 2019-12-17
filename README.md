@@ -10,7 +10,7 @@
 
 ## How to respond to this RFQ
 
-This RFQ was posted to eBuy under RFQ1397579. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-agency-wide-cx/blob/master/RFQ-Agency-Wide-CX-Capability.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSe8xyMSLOajlx_IQMEaN-j8WCJB-pLbQiWRJWzr8n1GiOderA/viewform) no later than *September 26, 2019 at noon, eastern*.
+This RFQ was posted to eBuy under RFQ1397579. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-agency-wide-cx/blob/master/Amendment-0004-RFQ-Build-an-Agency-Wide-CX%20Capability.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSe8xyMSLOajlx_IQMEaN-j8WCJB-pLbQiWRJWzr8n1GiOderA/viewform) no later than *September 26, 2019 at noon, eastern*.
 
 Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
 
